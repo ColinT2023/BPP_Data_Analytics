@@ -1,2 +1,1 @@
-# BPP_Data_Analytics
-## BPP University Data Analyst L4 Apprenticeship Mission 5 - ColinT
+# This repository was created solely for my study of BPP University Data Analyst L4 Apprenticeship and to establish a medium for sharing datasets and code.
